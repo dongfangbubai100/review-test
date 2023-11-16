@@ -3,6 +3,3 @@ xxx
 
 # review-text
 xxx
-
-# review-text
-xxx
